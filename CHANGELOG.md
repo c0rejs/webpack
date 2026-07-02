@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.38 (2026-07-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [978ff4c](https://github.com/corejslib/webpack/commit/978ff4c); 👬 zdm)
+
+Compare with the previous release: [v1.6.37...v1.6.38](https://github.com/corejslib/webpack/compare/v1.6.37...v1.6.38)
+
 ### v1.6.37 (2026-06-21)
 
 **Other changes:**
