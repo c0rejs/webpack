@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.39 (2026-07-03)
+
+**Other changes:**
+
+- build(deps): bunp webpack-dev-server@^6.0.0 (● [80eafe4](https://github.com/corejslib/webpack/commit/80eafe4); 👬 zdm)
+
+Compare with the previous release: [v1.6.38...v1.6.39](https://github.com/corejslib/webpack/compare/v1.6.38...v1.6.39)
+
 ### v1.6.38 (2026-07-02)
 
 **Bug fixes:**
