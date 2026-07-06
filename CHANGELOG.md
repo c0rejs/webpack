@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.40 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [73384f1](https://github.com/corejslib/webpack/commit/73384f1); 👬 zdm)
+
+Compare with the previous release: [v1.6.39...v1.6.40](https://github.com/corejslib/webpack/compare/v1.6.39...v1.6.40)
+
 ### v1.6.39 (2026-07-03)
 
 **Other changes:**
