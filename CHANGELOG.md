@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.42 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [458cd2e](https://github.com/corejslib/webpack/commit/458cd2e); 👬 zdm)
+
+Compare with the previous release: [v1.6.41...v1.6.42](https://github.com/corejslib/webpack/compare/v1.6.41...v1.6.42)
+
 ### v1.6.41 (2026-08-01)
 
 **Bug fixes:**
