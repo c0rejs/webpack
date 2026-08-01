@@ -29,7 +29,7 @@
         "./webpack-components/*": "./resources/webpack-components/*/component.js"
     },
     "bin": {
-        "softvisio-webpack": "bin/softvisio-webpack.js"
+        "cwebpack": "bin/cwebpack.js"
     },
     "files": [
         "/bin",
