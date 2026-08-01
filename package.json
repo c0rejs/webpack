@@ -3,7 +3,6 @@
     "version": "1.6.40",
     "description": "Webpack wrapper",
     "keywords": [
-        "softvisio",
         "webpack"
     ],
     "homepage": "https://corejslib.github.io/webpack/",
