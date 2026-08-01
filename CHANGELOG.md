@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.41 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [8162678](https://github.com/corejslib/webpack/commit/8162678), [c399e0b](https://github.com/corejslib/webpack/commit/c399e0b); 👬 zdm)
+
+Compare with the previous release: [v1.6.40...v1.6.41](https://github.com/corejslib/webpack/compare/v1.6.40...v1.6.41)
+
 ### v1.6.40 (2026-07-06)
 
 **Other changes:**
