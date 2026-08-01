@@ -11,5 +11,5 @@ npm install @corejslib/webpack
 ## Usage
 
 ```sh
-softvisio-webpack --help
+cwebpack --help
 ```
