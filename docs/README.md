@@ -11,5 +11,5 @@ npm install @corejslib/webpack
 ## Usage
 
 ```sh
-cwebpack --help
+zwebpack --help
 ```
