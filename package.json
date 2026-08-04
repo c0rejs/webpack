@@ -29,7 +29,7 @@
         "./webpack-components/*": "./resources/webpack-components/*/component.js"
     },
     "bin": {
-        "cwebpack": "bin/cwebpack.js"
+        "zwebpack": "bin/zwebpack.js"
     },
     "files": [
         "/bin",
