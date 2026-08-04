@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.6.43 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [92214bc](https://github.com/corejslib/webpack/commit/92214bc), [d7547ae](https://github.com/corejslib/webpack/commit/d7547ae), [16f29a7](https://github.com/corejslib/webpack/commit/16f29a7); 👬 zdm)
+
+- chore: rename cwebpack to zwebpack (● [80dbb19](https://github.com/corejslib/webpack/commit/80dbb19), [0ac43fc](https://github.com/corejslib/webpack/commit/0ac43fc); 👬 zdm)
+
+Compare with the previous release: [v1.6.42...v1.6.43](https://github.com/corejslib/webpack/compare/v1.6.42...v1.6.43)
+
 ### v1.6.42 (2026-08-01)
 
 **Other changes:**
