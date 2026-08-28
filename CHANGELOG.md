@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.44 (2026-08-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [25e914e](https://github.com/corejslib/webpack/commit/25e914e); 👬 zdm)
+
+Compare with the previous release: [v1.6.43...v1.6.44](https://github.com/corejslib/webpack/compare/v1.6.43...v1.6.44)
+
 ### v1.6.43 (2026-08-04)
 
 **Other changes:**
