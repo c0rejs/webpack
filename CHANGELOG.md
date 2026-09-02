@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.0 (2026-09-02)
+
+**New features:**
+
+- \[MINOR] feat: add optimization.runtimeChunk (● [9b54884](https://github.com/corejslib/webpack/commit/9b54884); 👬 zdm)
+
+Compare with the previous release: [v1.6.45...v1.7.0](https://github.com/corejslib/webpack/compare/v1.6.45...v1.7.0)
+
 ### v1.6.45 (2026-09-02)
 
 **Bug fixes:**
