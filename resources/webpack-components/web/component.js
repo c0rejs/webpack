@@ -110,6 +110,7 @@ export default class extends WebpackComponent {
                         },
                     } ),
                 ],
+                "runtimeChunk": true,
             },
 
             "module": {

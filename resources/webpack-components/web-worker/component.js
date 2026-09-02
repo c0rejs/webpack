@@ -78,6 +78,7 @@ export default class extends WebpackComponent {
 
             "optimization": {
                 "minimizer": [ this.webpackTerserPlugin ],
+                "runtimeChunk": true,
             },
 
             "module": {
