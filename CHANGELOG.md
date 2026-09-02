@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.45 (2026-09-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix proxy options (● [35ff3f5](https://github.com/corejslib/webpack/commit/35ff3f5); 👬 zdm)
+
+Compare with the previous release: [v1.6.44...v1.6.45](https://github.com/corejslib/webpack/compare/v1.6.44...v1.6.45)
+
 ### v1.6.44 (2026-08-28)
 
 **Bug fixes:**
